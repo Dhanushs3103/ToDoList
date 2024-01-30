@@ -8,7 +8,7 @@ body {
   text-align: center;
   background-color:whitesmoke;
   margin: auto;
-  background-image: url('path/to/your/image.jpg');
+  background-image: url('https://wallup.net/wp-content/uploads/2019/09/535293-sunset-sunrise-nature-sun-sky-beautiful.jpg');
   background-size: cover; 
   background-position: center; 
   height: 500px;
@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   justify-content: center;
   border-radius: 20px;
-  background-color:azure;
+  background-color: rgba(255, 255, 255, 0.5);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   margin-top: 20px;
   margin: auto;
